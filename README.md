@@ -6,7 +6,7 @@ Skriv om koden med rätt semantiska element!
 
 ## Tänk på:
 
-• Vilka av de otydliga boxarna ska bytas ut mot header, nav, main, article eller footer?
+• Vilka av de otydliga boxarna ska bytas ut mot `<header>`, `<nav>`, `<main>`, `<article>` eller `<footer>`?
 
 • Hur markerar vi upp punkterna korrekt istället för med radbrytningar och bindestreck?
 
