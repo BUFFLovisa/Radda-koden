@@ -11,3 +11,9 @@ Skriv om koden med rätt semantiska element!
 • Hur markerar vi upp punkterna korrekt istället för med radbrytningar och bindestreck?
 
 • Vilket viktigt attribut saknas på bild-elementet?
+
+## Inlämning:
+
+Lämna in uppgiften genom att länka till er egna repository.
+
+**Uppladdning av html-fil accepteras inte!**
